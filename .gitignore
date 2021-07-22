@@ -209,7 +209,7 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-# Editor-based Rest Client
+# Editor-based Rest Client$ ssh-keygen -t ed25519 -C "skyaleksandr@gmail.com"
 .idea/httpRequests
 
 # Android studio 3.1+ serialized cache file
